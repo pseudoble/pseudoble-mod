@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "pseudoble-mod:item/custom_item"
+  }
+}
